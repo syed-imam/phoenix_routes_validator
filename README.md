@@ -1,6 +1,6 @@
 # PhoenixRouteValidator
 
-**TODO: Add description**
+Detect conflicting routes defined in a Phoenix project.
 
 ## Installation
 
@@ -13,9 +13,3 @@ def deps do
     {:phoenix_route_validator, "~> 0.1.0"}
   ]
 end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/phoenix_route_validator>.
-
