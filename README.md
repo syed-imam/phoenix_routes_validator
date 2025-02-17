@@ -1,4 +1,4 @@
-# PhoenixRouteValidator
+# PhoenixRoutesValidator
 
 Detect conflicting routes defined in a Phoenix project.
 
