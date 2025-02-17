@@ -3,7 +3,7 @@ defmodule PhoenixRouteValidator.MixProject do
 
   def project do
     [
-      app: :phoenix_route_validator,
+      app: :phoenix_routes_validator,
       version: "0.1.0",
       elixir: "~> 1.18",
       description: "A library to validate conflicting routes in Phoenix applications.",

@@ -9,13 +9,13 @@ The package can be installed by adding `phoenix_route_validator` to your list of
 ```elixir
 def deps do
   [
-    {:phoenix_route_validator, "~> 0.1.0"}
+    {:phoenix_routes_validator, "~> 0.1.0"}
   ]
 end
 ```
 
 ## Documentation
-Documentation can be found at [https://hexdocs.pm/phoenix_route_validator](https://hexdocs.pm/phoenix_route_validator).
+Documentation can be found at [https://hexdocs.pm/phoenix_routes_validator](https://hexdocs.pm/phoenix_routes_validator).
 
 ## Package URL
-https://hex.pm/packages/phoenix_route_validator/0.1.0
+https://hex.pm/packages/phoenix_routes_validator/0.1.0
