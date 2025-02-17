@@ -12,6 +12,7 @@ def deps do
     {:phoenix_route_validator, "~> 0.1.0"}
   ]
 end
+```
 
 ## Documentation
 Documentation can be found at [https://hexdocs.pm/phoenix_route_validator](https://hexdocs.pm/phoenix_route_validator).
